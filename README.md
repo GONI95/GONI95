@@ -6,12 +6,6 @@
 [![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/chajuhui123)](https://blog.naver.com/sjs4209)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GONI95)](https://github.com/anuraghazra/github-readme-stats)<!-- 개발 시간 -->
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GONI95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<!-- 개발 언어 종류 -->
-
-
 ## Work experience ⚡
 - (14.03 - 15.03) 배재대학교 정보통신공학과 과대표
 - (17.09 - 19.03) 배재대학교 정보통신공학과 'WSEM' 연구실장
@@ -27,6 +21,13 @@
 - 모바일 앱 개발(java, kotlin)
 - IOT
 
-## future plan 🔭
+## Future plan 🔭
 
 - IOS 앱 개발(21.01 - )
+
+## Task
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GONI95)](https://github.com/anuraghazra/github-readme-stats)<!-- 개발 시간 -->
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GONI95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<!-- 개발 언어 종류 -->
