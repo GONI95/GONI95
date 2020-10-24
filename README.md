@@ -8,4 +8,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GONI95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<!-- 개발 언어 종류 -->
 
-## Work experience 
+## Work experience ⚡
+- (14.03 - 15.03) 배재대학교 정보통신공학과 과대표
+- (17.09 - 19.03) 배재대학교 정보통신공학과 'WSEM' 연구실장
+- (18.09 - 18.10) 배재대학교 정보통신공학과 학술제 'WSEM' 프로젝트 4팀 / 작품 : '화재예방 SAFE HOUSE'
+- (18.09 - 18.12) 배재대학교 정보통신공학과 캡스톤디자인 프로젝트 팀장 / 작품 : '자동화 IOT HOUSE'
+- (19.03 - 20.02) 배재대학교 정보통신공학과 부학회장
+- (19.08 - 19.12) 배재대학교 졸업작품 프로젝트팀 팀장 / 작품 : 'CAMPUS LIFE'
+- (20.09 - ) 한국과학기술정보연구원(KISTI) 과학기술 기계학습 데이터 구축 사업 '논문전문 텍스트'팀
