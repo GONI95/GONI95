@@ -15,6 +15,12 @@
 - (19.08 - 19.12) 배재대학교 졸업작품 프로젝트팀 팀장 / 작품 : 'CAMPUS LIFE'
 - (20.09 - ) 한국과학기술정보연구원(KISTI) 과학기술 기계학습 데이터 구축 사업 '논문전문 텍스트'팀
 
+## Task
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GONI95)](https://github.com/anuraghazra/github-readme-stats)<!-- 개발 시간 -->
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GONI95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<!-- 개발 언어 종류 -->
 
 ## Interest 👀
 - 안드로이드 개발
@@ -24,10 +30,3 @@
 ## Future plan 🔭
 
 - IOS 앱 개발(21.01 - )
-
-## Task
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GONI95)](https://github.com/anuraghazra/github-readme-stats)<!-- 개발 시간 -->
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GONI95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<!-- 개발 언어 종류 -->
