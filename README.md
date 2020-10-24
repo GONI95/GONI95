@@ -4,3 +4,4 @@
 <!-- https://hits.seeyoufarm.com/ -->
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sanggoni009@gmail.com)](mailto:sanggoni009@gmail.com)
 <!-- https://shields.io/ -->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
