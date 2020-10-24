@@ -6,5 +6,5 @@
 <!-- https://shields.io/ -->
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GONI95)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 개발 시간 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SGLee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GONI95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 개발 언어 종류 -->
