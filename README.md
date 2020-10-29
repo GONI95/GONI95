@@ -17,8 +17,7 @@
 
 ## Task
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GONI95)](https://github.com/anuraghazra/github-readme-stats)<!-- 개발 시간 -->
-<figure><embed src="https://wakatime.com/share/@GONI95/509729e3-2733-4fee-84c7-e69ad330bc89.svg"></embed></figure>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sanggon Lee)](https://github.com/anuraghazra/github-readme-stats)<!-- 개발 시간 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GONI95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<!-- 개발 언어 종류 -->
 
