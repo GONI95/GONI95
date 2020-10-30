@@ -21,7 +21,22 @@
 [![saechimdaeki's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=goni)](https://wakatime.com/@GONI95)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goni95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<!-- 개발 언어 종류 -->
+name: Waka Readme
 
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs at 12am UTC
+    - cron: '0 0 * * *'
+
+jobs:
+  update-readme:
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${0173f2e5-9f04-4ca2-a9d1-70f7af68c7b3}
 
 ## Interest 👀
 - 안드로이드 개발
