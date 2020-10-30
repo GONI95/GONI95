@@ -22,6 +22,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goni95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<!-- 개발 언어 종류 -->
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GONI95&show_icons=true&theme=radical)
 
 ## Interest 👀
 - 안드로이드 개발
