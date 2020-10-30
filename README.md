@@ -21,7 +21,23 @@
 [![saechimdaeki's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=goni)](https://wakatime.com/@GONI95)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goni95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<!-- 개발 언어 종류 -->
+name: Update README with my latest coding stats
 
+on:
+  schedule:
+    - cron: '30 5 * * *'
+
+jobs:
+  update-Readme:
+    name: Automatically update my README  
+    runs-on: ubuntu-latest
+    steps:
+      - uses: tariksahni/coding-stats-wakatime@v1.0.0
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_MONTHLY: true
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_ACTION: ${{ github.action }}
 
 ## Interest 👀
 - 안드로이드 개발
