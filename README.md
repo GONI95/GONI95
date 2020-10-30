@@ -22,8 +22,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goni95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<!-- 개발 언어 종류 -->
 
-<img src="https://github.com/GONI95/<repository-name>/blob/master/images/stat.svg" alt="Alternative Text"/>
-Example: <img src="https://github.com/avinal/avinal/blob/master/images/stat.svg" alt="Avinal WakaTime Activity"/>
+<img src="https://github.com/GONI95/Papago/blob/master/images/stat.svg" alt="Alternative Text"/>
 
 
 ## Interest 👀
