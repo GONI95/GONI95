@@ -22,10 +22,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goni95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<!-- 개발 언어 종류 -->
 
-<img src="https://github.com/GONI95/Kotlin_practice/blob/master/images/stat.svg" alt="Avinal WakaTime Activity"/>
-
-<figure><embed src="https://wakatime.com/share/@GONI95/d6cf07d4-a76c-4986-a795-36339cd3bd1c.svg"></embed></figure>
-
 
 ## Interest 👀
 - 안드로이드 개발
