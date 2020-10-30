@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/sglee0811@nate.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sglee0811@nate.com" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100005899952884" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sglee0811@nate.com" height="30" width="40" /></a>
 <a href="https://instagram.com/s__gxn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="s__gxn" height="30" width="40" /></a>
 </p>
 
