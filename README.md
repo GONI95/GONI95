@@ -29,7 +29,7 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GONI95)](https://github.com/anuraghazra/github-readme-stats)<!-- 개발 시간 -->
 [![GONI95's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GONI95)](https://wakatime.com/@GONI95)
 
-<img  src="https://wakatime.com/share/@GONI95/9839d028-87f5-48fe-a7fa-b43567b43cb8.svg" height="400"/>
+<img  src="https://wakatime.com/share/@GONI95/9839d028-87f5-48fe-a7fa-b43567b43cb8.svg" height="800"/>
 
 <!-- 개발 언어 종류 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GONI95&langs_count=8)](https://wakatime.com/@GONI95)
