@@ -29,7 +29,8 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GONI95)](https://github.com/anuraghazra/github-readme-stats)<!-- 개발 시간 -->
 [![GONI95's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GONI95)](https://wakatime.com/@GONI95)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goni95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<!-- 개발 언어 종류 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GONI95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<!-- 개발 언어 종류 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GONI95&langs_count=8)](https://wakatime.com/@GONI95)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GONI95&show_icons=true&theme=react)
 
