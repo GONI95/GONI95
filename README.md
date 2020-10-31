@@ -27,6 +27,8 @@
 ## Task
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GONI95)](https://github.com/anuraghazra/github-readme-stats)<!-- 개발 시간 -->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GONI95)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GONI95's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GONI95)](https://wakatime.com/@GONI95)
 
 <img  src="https://wakatime.com/share/@GONI95/9839d028-87f5-48fe-a7fa-b43567b43cb8.svg" height="500"/>
