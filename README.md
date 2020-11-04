@@ -24,12 +24,12 @@
 
 ## Task
 
-[![saechimdaeki's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gonigoni)](https://wakatime.com/@GONI95)
+[![saechimdaeki's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gonigoni)](https://wakatime.com/@gonigoni)
 
 <!-- 개발 언어 종류 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GONI95&langs_count=8)](https://wakatime.com/@GONI95)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gonigoni&langs_count=8)](https://wakatime.com/@gonigoni)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GONI95&show_icons=true&theme=react)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gonigoni&show_icons=true&theme=react)
 
 ## Interest 👀
 - 안드로이드 개발
