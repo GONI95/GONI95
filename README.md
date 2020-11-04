@@ -24,7 +24,7 @@
 
 ## Task
 
-[![saechimdaeki's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GONI95)](https://wakatime.com/@GONI95)
+[![saechimdaeki's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gonigoni)](https://wakatime.com/@GONI95)
 
 <!-- 개발 언어 종류 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GONI95&langs_count=8)](https://wakatime.com/@GONI95)
