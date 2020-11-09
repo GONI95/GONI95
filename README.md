@@ -23,13 +23,11 @@
 - (20.09 - ) 한국과학기술정보연구원(KISTI) 과학기술 기계학습 데이터 구축 사업 '논문전문 텍스트'팀
 
 ## Task
-
+이번 주 개발 시간
 [![saechimdaeki's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gonigoni)](https://wakatime.com/@gonigoni)
 
-<!-- 개발 언어 종류 -->
+개발 언어 종류
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GONI95&langs_count=8)](https://wakatime.com/@gonigoni)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GONI95&show_icons=true&theme=react)
 
 ## Interest 👀
 - 안드로이드 개발
