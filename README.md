@@ -27,7 +27,7 @@
 
 [![saechimdaeki's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gonigoni)](https://wakatime.com/@gonigoni)
 
-<h3>GITHUB 개발 언어</h3>
+<h3>Githube 개발 언어</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GONI95&langs_count=8)](https://wakatime.com/@gonigoni)
 
