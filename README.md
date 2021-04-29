@@ -31,8 +31,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goni95&langs_count=5)](https://wakatime.com/@gonigoni)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
 ## Interest 👀
 - 안드로이드 개발
 - 모바일 앱 개발(java, kotlin)
