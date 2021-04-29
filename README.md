@@ -31,6 +31,8 @@
 
 [![saechimdaeki's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saechimdaeki)](https://wakatime.com/@saechimdaeki)
 
+https://github-readme-stats.vercel.app/api?username=goni95&show_icons=true&theme=tokyonight
+
 ## Interest 👀
 - 안드로이드 개발
 - 모바일 앱 개발(java, kotlin)
