@@ -29,7 +29,7 @@
 
 <h3>[Github] 개발 언어</h3>
 
-[![GONI95 wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=&langs_count=8)
+[![GONI95 wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=goni95&langs_count=8)
 
 ## Interest 👀
 - 안드로이드 개발
