@@ -25,11 +25,11 @@
 ## Task
 <h3>[WAKATIME] 주간 통계</h3>
 
-[![saechimdaeki's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gonigoni)](https://wakatime.com/@gonigoni)
+[![gonigoni wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gonigoni)](https://wakatime.com/@gonigoni)
 
 <h3>[Github] 개발 언어</h3>
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=goni95&langs_count=8)
+[![gonigoni wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=goni95&langs_count=8)
 
 ## Interest 👀
 - 안드로이드 개발
