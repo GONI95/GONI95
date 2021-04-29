@@ -29,7 +29,7 @@
 
 <h3>[Github] 개발 언어</h3>
 
-[![GONI95 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=goni95)](https://wakatime.com/@gonigoni)
+[![GONI95 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gonigoni)](https://wakatime.com/@gonigoni)
 
 ## Interest 👀
 - 안드로이드 개발
