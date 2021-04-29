@@ -29,9 +29,7 @@
 
 <h3>[Github] 개발 언어</h3>
 
-[![saechimdaeki's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saechimdaeki)](https://wakatime.com/@saechimdaeki)
-
-https://github-readme-stats.vercel.app/api?username=goni95&show_icons=true&theme=tokyonight
+[![GONI95 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GONI95)](https://wakatime.com/@gonigoni)
 
 ## Interest 👀
 - 안드로이드 개발
