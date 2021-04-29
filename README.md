@@ -31,6 +31,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goni95&langs_count=5)](https://wakatime.com/@gonigoni)
 
+<img src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/>
+Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
+
 ## Interest 👀
 - 안드로이드 개발
 - 모바일 앱 개발(java, kotlin)
