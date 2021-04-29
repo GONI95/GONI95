@@ -29,7 +29,7 @@
 
 <h3>[Github] 개발 언어</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goni95&langs_count=5)](https://wakatime.com/@gonigoni)
+[![saechimdaeki's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saechimdaeki)](https://wakatime.com/@saechimdaeki)
 
 ## Interest 👀
 - 안드로이드 개발
