@@ -10,7 +10,15 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> <a href="https://developer.android.com" target="_blank"> 
-  <img src="https://img.shields.io/badge/Android Studio-0BC904?style=flat-square&logo=Android Studio&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Android Studio-009300?style=flat-square&logo=Android Studio&logoColor=white"/></a>&nbsp 
+</p>
+
+<p align="left"> <a href="https://developer.android.com" target="_blank"> 
+  <img src="https://img.shields.io/badge/Java-009300?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+</p>
+
+<p align="left"> <a href="https://developer.android.com" target="_blank"> 
+  <img src="https://img.shields.io/badge/Kotlin-009300?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp 
 </p>
 
 
