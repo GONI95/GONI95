@@ -12,11 +12,9 @@
 <p align="left"> <a href="https://developer.android.com" target="_blank"> 
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>&nbsp 
 </p>
-
 <p align="left"> <a href="https://www.java.com/ko/" target="_blank"> 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
 </p>
-
 <p align="left"> <a href="https://kotlinlang.org/" target="_blank"> 
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp 
 </p>
