@@ -10,7 +10,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> <a href="https://developer.android.com" target="_blank"> 
-  <img src="https://img.shields.io/badge/Android_Studio-3766AB?style=flat-square&logo=Android Studio&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Android Studio-3766AB?style=flat-square&logo=Android Studio&logoColor=white"/></a>&nbsp 
 </p>
 
 
