@@ -5,7 +5,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Sanggon Lee</h1>
+<h1 align="center">Hi :wave:, I'm Sanggon Lee</h1>
 <h3 align="center">
 훌륭한 개발자란, 비즈니스 코드의 가치를 알고, 개발자로서 Vision을 가진 개발자라고 생각합니다. <br><br>
 
@@ -18,7 +18,7 @@
 
 <br>
 
-## Skill ⚡
+## Skill :sparkles:
 <h3 align="center">
 <p align="left"> <a href="https://developer.android.com" target="_blank"> 
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>&nbsp 
@@ -32,7 +32,7 @@
 
 <br>
 
-## Work experience :office:
+## Work experience :feet:
 <pre>
 - (14.03 - 15.03) 배재대학교 정보통신공학과 과대표
 - (17.09 - 19.03) 배재대학교 정보통신공학과 'WSEM' 연구실장
@@ -45,7 +45,7 @@
 
 <br>
 
-## Task
+## Task :floppy_disk:
 <h3>[WAKATIME] 주간 통계</h3>
 
 [![gonigoni wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gonigoni)](https://wakatime.com/@gonigoni)
@@ -56,13 +56,13 @@
 
 <br>
 
-## Interest 👀
+## Interest :eyes:
 - 안드로이드 개발
 - 모바일 앱 개발(java, kotlin)
 
 <br>
 
-## Future plan 🔭
+## Future plan :trophy:
 <pre>
 - 2021년 11 ~ 12월 : SQLD 공부(22년 2월 중순 예상)
 - 2022년 상반기 : SQLD 취득   |  토익 350점             |  PHP(Lalavel)
