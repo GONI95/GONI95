@@ -16,7 +16,7 @@
 휼륭한 개발자란, 질문의 답을 찾기위해 위기와 변화에 포기하지않는 근성을 가진 개발자가 되겠습니다.
 </h3>
 
-<br><br>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp 
 </p>
 
-<br><br>
+<br>
 
 ## Work experience ⚡
 <pre>
@@ -43,7 +43,7 @@
 - (20.09 - 21.01) 한국과학기술정보연구원(KISTI) 과학기술 기계학습 데이터 구축 사업 '논문전문 텍스트'팀
 </pre>
 
-<br><br>
+<br>
 
 ## Task
 <h3>[WAKATIME] 주간 통계</h3>
@@ -54,13 +54,13 @@
 
 [![goni95 stats](https://github-readme-stats.vercel.app/api/top-langs/?username=goni95&langs_count=8)](https://wakatime.com/@gonigoni)
 
-<br><br>
+<br>
 
 ## Interest 👀
 - 안드로이드 개발
 - 모바일 앱 개발(java, kotlin)
 
-<br><br>
+<br>
 
 ## Future plan 🔭
 <pre>
