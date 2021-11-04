@@ -32,7 +32,7 @@
 
 <br>
 
-## Work experience ⚡
+## Work experience :office:
 <pre>
 - (14.03 - 15.03) 배재대학교 정보통신공학과 과대표
 - (17.09 - 19.03) 배재대학교 정보통신공학과 'WSEM' 연구실장
