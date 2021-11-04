@@ -6,7 +6,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Sanggon Lee</h1>
-<h3 align="center">I want to be a passionate Android developer.</h3>
+<h3 align="center">훌륭한 개발자란, 비즈니스 코드의 가치를 알고, 개발자로서 Vision을 가진 개발자라고 생각합니다.
+
+비즈니스 코드의 가치를 모르는 개발자는, 중점을 로직이 아닌 업무에 두고 자신 또는 다른 사람의 코드에 왜? 라는 질문 없이 일단 동작하니깐!! 끝이라고 생각합니다.
+
+비즈니스 코드의 가치를 아는 개발자는 로직을 왜 이렇게 작성했는지, 장/단점은 무엇인지에 대해 고민하고 해결책을 찾으며 Vision을 향해 나아갑니다.
+
+휼륭한 개발자란, 질문의 답을 찾기위해 위기와 변화에 포기하지않는 근성을 가진 개발자가 되겠습니다.</h3>
 
 
 
@@ -51,6 +57,10 @@
 - 모바일 앱 개발(java, kotlin)
 
 ## Future plan 🔭
-- 2021년 11 ~ 12월 : SQLD 공부 
-- 2022년 상반기 : SQLD 자격증 취득  |  토익 400점  |  PHP(Lalavel)
-- 2022년 하반기 : 토익 500점  | 토익 스피킹 Lv4
+- 2021년 11 ~ 12월 : SQLD 공부(22년 2월 중순 예상)
+- 2022년 상반기 : SQLD 취득   |  토익 350점             |  PHP(Lalavel)
+- 2022년 하반기 : 토익 450점  |  오픽 Novice High       |  안드로이드 라이브러리 배포
+- 2023년 상반기 : 토익 600점  |  오픽 Intermediate Low  |  Kotlin (멀티플랫폼) or FrontEnd or IOS
+- 2023년 하반기 : 토익 750점  |  오픽 Intermediate Mid  |  Kotlin (멀티플랫폼) or FrontEnd or IOS
+- 2024년 상반기 : 토익 900점  |  오픽 Intermediate High |  개발자 스텍 : 수입 창출이 가능한 서비스를 구상하여 어플리케이션을 배포
+- 2024년 하반기 : 토플 80점   |  네트워크 관리사 1급     |  안드로이드 개발자 or 프론트앤드 개발자 비전 설계
