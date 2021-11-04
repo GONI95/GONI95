@@ -49,6 +49,5 @@
 ## Interest 👀
 - 안드로이드 개발
 - 모바일 앱 개발(java, kotlin)
-- IOT
 
 ## Future plan 🔭
