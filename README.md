@@ -59,10 +59,10 @@
 ## Future plan :trophy:
 <pre>
 - 2021년 11 ~ 12월 : SQLD 공부(22년 2월 중순 예상)
-- 2022년 상반기 : SQLD 취득   |  토익 350점             |  PHP(Lalavel)
-- 2022년 하반기 : 토익 450점  |  오픽 Novice High       |  안드로이드 라이브러리 배포
-- 2023년 상반기 : 토익 600점  |  오픽 Intermediate Low  |  Kotlin (멀티플랫폼) or FrontEnd or IOS
-- 2023년 하반기 : 토익 750점  |  오픽 Intermediate Mid  |  Kotlin (멀티플랫폼) or FrontEnd or IOS
-- 2024년 상반기 : 토익 900점  |  오픽 Intermediate High |  개발자 스텍 : 수입 창출이 가능한 서비스를 구상하여 어플리케이션을 배포
-- 2024년 하반기 : 토플 80점   |  네트워크 관리사 1급     |  안드로이드 개발자 or 프론트앤드 개발자 비전 설계
+- 2022년 하반기 : SQLD 취득   |  토익 350점             |  PHP(Lalavel)
+- 2023년 상반기 : 토익 450점  |  오픽 Novice High       |  안드로이드 라이브러리 배포
+- 2023년 하반기 : 토익 600점  |  오픽 Intermediate Low  |  Kotlin (멀티플랫폼) or FrontEnd or IOS
+- 2024년 상반기 : 토익 750점  |  오픽 Intermediate Mid  |  Kotlin (멀티플랫폼) or FrontEnd or IOS
+- 2024년 하반기 : 토익 900점  |  오픽 Intermediate High |  개발자 스텍 : 수입 창출이 가능한 서비스를 구상하여 어플리케이션을 배포
+- 2025년 상반기 : 토플 80점   |  네트워크 관리사 1급     |  안드로이드 개발자 or 프론트앤드 개발자 비전 설계
 </pre>
