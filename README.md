@@ -57,6 +57,8 @@
 
 ```
 
+  
+  
 
 📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
 
@@ -73,10 +75,10 @@
 이번 주에 활동은 없어요.
 
 ```
-
-
  Last Updated on 12/05/2022 10:14:32 UTC
 <!--END_SECTION:waka-->
+  
+  <br>
 
 <h3>[Github] 개발 언어</h3>
 
@@ -84,8 +86,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=goni95&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goni95&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
-  
-  
+
   
 <br>
 
