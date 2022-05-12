@@ -40,7 +40,7 @@
 <br>
 
 ## Task :floppy_disk:
-<h3>[WAKATIME] 주간 통계</h3>
+<h3>[WAKATIME] 주간 통계</h3> 
 
 [![gonigoni wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gonigoni)](https://wakatime.com/@gonigoni)
 
