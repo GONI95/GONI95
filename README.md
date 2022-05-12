@@ -78,8 +78,6 @@
  Last Updated on 12/05/2022 10:00:12 UTC
 <!--END_SECTION:waka-->
 
-[![gonigoni wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gonigoni)](https://wakatime.com/@gonigoni)
-
 <h3>[Github] 개발 언어</h3>
 
 <p>
