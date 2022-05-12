@@ -51,6 +51,10 @@
 
 [![goni95 stats](https://github-readme-stats.vercel.app/api/top-langs/?username=goni95&langs_count=8)](https://wakatime.com/@gonigoni)
 
+  ![](https://visitor-badge.glitch.me/badge?page_id=sanggoni009@gmail.com)
+  
+  
+  
 <br>
 
 ## Interest :eyes:
