@@ -41,6 +41,9 @@
 
 ## Task :floppy_disk:
 <h3>[WAKATIME] 주간 통계</h3> 
+  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [![gonigoni wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gonigoni)](https://wakatime.com/@gonigoni)
 
