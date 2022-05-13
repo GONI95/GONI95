@@ -101,7 +101,6 @@ Windows                  3 hrs 8 mins        ███████████�
 
 ## Future plan :trophy:
 <pre>
-- 2021년 11 ~ 12월 : SQLD 공부(22년 2월 중순 예상)
 - 2022년 하반기 : SQLD 취득   |  토익 350점             |  PHP(Lalavel)
 - 2023년 상반기 : 토익 450점  |  오픽 Novice High       |  안드로이드 라이브러리 배포
 - 2023년 하반기 : 토익 600점  |  오픽 Intermediate Low  |  Kotlin (멀티플랫폼) or FrontEnd or IOS
