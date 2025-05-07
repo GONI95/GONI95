@@ -3,12 +3,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/tkd._rhs.95/)](https://www.instagram.com/tkd._rhs.95/) 
 [![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/chajuhui123)](https://goni95.tistory.com/) 
 
-
-
-<h1 align="center">Hi :wave:, I'm Sanggon Lee</h1>
-
-<br>
-
 ## Skill :sparkles:
 <h3 align="center">
 <p align="left"> <a href="https://developer.android.com" target="_blank"> 
